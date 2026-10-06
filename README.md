@@ -58,7 +58,7 @@ You need [Node.js](https://nodejs.org) 20.9 or later and [Ollama](https://ollama
 
 ```bash
 ollama pull gemma3:4b      # about 3.3 GB, once
-git clone <this repo> && cd grassmate
+git clone https://github.com/bdhamithkumara/grassmate.git && cd grassmate
 npm install
 npm run build
 npm start                  # http://localhost:3000
